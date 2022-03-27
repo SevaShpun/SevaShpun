@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 | | |
 |--|--|
-|![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)|<div align="center">🌱Hi there 👋😄<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevashpun&count_private=true&theme=tokyonight)<br>[![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@dev_projects-blue)](https://t.me/dev_projects)
+|![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)|<div align="center">🌱Hi there 👋😄<br><br>![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevashpun&count_private=true&theme=tokyonight)<br>[![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@dev_projects-blue)](https://t.me/dev_projects)
 
 
 <!--
