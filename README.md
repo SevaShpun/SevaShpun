@@ -12,7 +12,8 @@ Here are some ideas to get you started:1
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Hello code...
+![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 | | |
 |--|--|
