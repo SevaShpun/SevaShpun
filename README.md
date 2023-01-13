@@ -12,8 +12,15 @@ Here are some ideas to get you started:1
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevaShpun&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>[![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
+
+</div>
+
 <!--
 | | |
 |--|--|
