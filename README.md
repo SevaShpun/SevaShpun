@@ -20,9 +20,8 @@ Here are some ideas to get you started:1
 <details>
 <summary>More info</summary>
 
-<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevaShpun&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
+| | |
+|--|--|
+|![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)|<div align="center">![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)🌱Hi there 👋😄<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevashpun&count_private=true&theme=tokyonight)<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevaShpun&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>[![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
 </details>
-  
 </div>
