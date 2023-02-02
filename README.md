@@ -14,14 +14,14 @@ Here are some ideas to get you started:1
 -->
 <div id="header" align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <!-- Links -->
 [![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
 
 <details>
 <summary>More info</summary>
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p>
 
