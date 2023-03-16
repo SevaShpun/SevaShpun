@@ -18,8 +18,21 @@ Here are some ideas to get you started:1
 <!-- Links -->
 [![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
   
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SevaShpun&theme=github_dark" />
+</p>
+  
 <details>
 <summary>More info</summary>
+  
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SevaShpun&theme=react-dark&hide_border=true" />
+  </a>
+  
+<h2 align="left">📊Github Metrics</h2>
+<p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/SevaShpun" />
+</p>
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
