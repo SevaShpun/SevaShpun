@@ -17,7 +17,7 @@ Here are some ideas to get you started:1
   
 <!-- Links -->
 [![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
-  
+  <!-- 
 <h2 align="left">⚡Activity Graph:</h2>
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SevaShpun&theme=github_dark" />
@@ -45,3 +45,4 @@ Here are some ideas to get you started:1
   
 </details>
 </div>
+-->
