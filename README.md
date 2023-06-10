@@ -17,17 +17,20 @@ Here are some ideas to get you started:1
   
 <!-- Links -->
 [![Web](https://img.shields.io/badge/WEB-shpun.ru-blue)](https://shpun.ru) [![TG](https://img.shields.io/badge/TG-@Pa3pa6oT4uk-blue)](https://t.me/Pa3pa6oT4uk) [![Web](https://img.shields.io/badge/WEB:HOOK-MANAGER-blue)](https://shpun.ru/hm) [![TG](https://img.shields.io/badge/CHANNEL-@shpunbots-blue)](https://t.me/shpunbots) [![Web](https://komarev.com/ghpvc/?username=sevashpun)](https://github.com/SevaShpun)
-  <!-- 
+
 <h2 align="left">⚡Activity Graph:</h2>
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SevaShpun&theme=github_dark" />
-</p>
+<!--</p>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SevaShpun&theme=react-dark&hide_border=true" />
-  </a>
+  </a> -->
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<p>
+
+
+  <!--   
 <details>
 <summary>More info</summary>
-  
   
 <h2 align="left">📊Github Metrics</h2>
 <p align="center">
@@ -38,11 +41,12 @@ Here are some ideas to get you started:1
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevashpun&count_private=true&theme=tokyonight)<p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevaShpun&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
   
 </details>
 </div>
--->
+
