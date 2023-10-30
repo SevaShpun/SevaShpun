@@ -25,7 +25,7 @@ Here are some ideas to get you started:1
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SevaShpun&theme=react-dark&hide_border=true" />
   </a> -->
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=50&theme=tokyonight)<p>
 
 <a href="https://github.com/SevaShpun/mongopy">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SevaShpun&layout=compact&langs_count=50&card_width=320" />
