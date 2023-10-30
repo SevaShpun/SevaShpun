@@ -39,9 +39,6 @@ Here are some ideas to get you started:1
 ![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/SevaShpun/SevaShpun/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=10&theme=tokyonight)<p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevashpun&count_private=true&theme=tokyonight)<p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevaShpun&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
