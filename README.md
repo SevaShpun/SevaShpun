@@ -25,8 +25,8 @@ Here are some ideas to get you started:1
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SevaShpun&theme=react-dark&hide_border=true" />
   </a> -->
  
-  <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=50&theme=tokyonight)<p>
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=50&theme=tokyonight)<p>
+  <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SevaShpun)](https://github.com/anuraghazra/github-readme-stats)
 
    
