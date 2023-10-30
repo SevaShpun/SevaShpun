@@ -26,9 +26,11 @@ Here are some ideas to get you started:1
   </a> -->
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=50&theme=tokyonight)<p>
-  <!--
+
+<!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SevaShpun)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
    
 <details>
 <summary>More info</summary>
