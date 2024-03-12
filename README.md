@@ -27,7 +27,7 @@ Here are some ideas to get you started:1
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevashpun&hide=TeX&layout=compact&langs_count=50&theme=tokyonight)<p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!--![github contribution grid snake animation](https://raw.githubusercontent.com/SevaShpun/SevaShpun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
    
 <!--<details>
 <summary>More info</summary>
